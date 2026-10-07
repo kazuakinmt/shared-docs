@@ -16,5 +16,6 @@ Blogger・note・Facebook記事の共有資料
 <!-- 資料を追加したら、ここに追記する(新しいものを上に) -->
 | カテゴリ | 資料名 | 概要 | 資料 | 記事 |
 |---|---|---|---|---|
+| claude | Notionの日記に、毎晩AIがコメントしてくれる | Notionの日記に毎晩AIがコメントを付ける仕組み(NotionDiary)の要件定義・開発ロードマップ・note原稿 | [NotionDiary 要件定義](claude/2026-10-notion-diary-ai-comment/NotionDiary_%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9.md)<br>[NotionDiary 開発ロードマップ](claude/2026-10-notion-diary-ai-comment/NotionDiary_%E9%96%8B%E7%99%BA%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97.md)<br>[Notionの日記に、毎晩AIがコメントを付けてくれる仕組みを作った](claude/2026-10-notion-diary-ai-comment/NotionDiary_note%E5%8E%9F%E7%A8%BF.md) |  |
 | claude | Claudeで写真の整理 | Claude Codeで写真ライブラリ(約8.8万件・約297GB)の重複を除き、Vision APIでタグを付け、機種別フォルダに整理した作業記録 | [写真ライブラリ整理プロジェクト 記録](claude/2026-09-photo-library-cleanup/photo_project_record.md) |  |
 | claude | 記事資料をGitHubで共有する仕組み | 構築手順と運用ルール | [構築・運用ガイド](claude/docs-repo-setup/guide.md) |  |
